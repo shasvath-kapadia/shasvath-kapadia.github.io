@@ -4,8 +4,8 @@ date: 2022-05-25
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - Gravitational Waves
+  - PhD Research
 ---
 
 There are some opportunities.
