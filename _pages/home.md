@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/merger.jpg
 excerpt: "Astronomy, Astrophysics and Cosmology"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Hi there! I'm Shasvath, Assistant Professor at IUCAA in Pune, India. Welcome to my personal website! Here you will find details about my research, most of which concerns gravitational-wave (GW) astronomy, with a special focus on how GWs can inform and enrich other topics in astrophysics, cosmology and fundamental physics. Click on the tabs above to know more.'
 ---
 
 {% include feature_row id="intro" type="center" %}
