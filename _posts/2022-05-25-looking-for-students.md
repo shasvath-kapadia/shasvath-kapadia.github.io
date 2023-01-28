@@ -8,7 +8,5 @@ tags:
   - PhD Research
 header:
   overlay_image: /images/Rainbow_Swirl_Refracted.jpg
-  og_image: /images/Rainbow_Swirl_Refracted.jpg
-
 ---
 Under construction
