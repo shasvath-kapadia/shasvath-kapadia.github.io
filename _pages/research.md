@@ -3,8 +3,6 @@ permalink: /research/
 title: "Research"
 ---
 
-# My Research
-
 Most of my research concerns gravitational-wave (GW) astronomy, with a special focus on how GWs can inform and enrich other topics in astrophysics, cosmology and fundamental physics.
 
 # About Gravitational Waves
