@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /home/  
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -9,5 +11,3 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Splash Page"
-    url: /splash-page/
