@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Splash Page"
+    url: /splash-page/
