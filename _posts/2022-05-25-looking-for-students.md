@@ -7,7 +7,8 @@ tags:
   - Gravitational Waves
   - PhD Research
 header:
-  overlay_image: /assets/images/Rainbow_Swirl_Refracted.jpg
-  og_image: /assets/images/Rainbow_Swirl_Refracted.jpg
+  overlay_image: /images/Rainbow_Swirl_Refracted.jpg
+  og_image: /images/Rainbow_Swirl_Refracted.jpg
 
 ---
+Under construction
