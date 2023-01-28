@@ -1,12 +1,6 @@
 ---
 title: "Gravitational Wave Reasearch Opportunities"
-date: 2022-05-25
-categories:
-  - blog
-tags:
-  - Gravitational Waves
-  - PhD Research
+date: 2023-01-28
 header:
   overlay_image: /images/Rainbow_Swirl_Refracted.jpg
 ---
-Under construction
