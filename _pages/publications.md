@@ -17,7 +17,7 @@ title: ""
 
 25) S. Basak, A. Ganguly, K. Haris, **Shasvath J. Kapadia**, A. K. Mehta, P. Ajith, "*Constraints on compact dark matter from gravitational wave microlensing*", [arXiv:2109.06456](https://arxiv.org/abs/2109.06456), [ApJ Letters](https://iopscience.iop.org/article/10.3847/2041-8213/ac4dfa), 926, L28, (2022).
 
-24) Srashti Goyal, Harikrishnan D., **Shasvath J. Kapadia**, Parameswaran Ajith, "*Rapid Identification of Strongly Lensed Gravitational-Wave Events with Machine Learning*", [arXiv:2106.12466](https://arxiv.org/abs/2106.12466), [PRD](Phys. Rev. D 104, 124057), 104, 124057, (2021).
+24) Srashti Goyal, Harikrishnan D., **Shasvath J. Kapadia**, Parameswaran Ajith, "*Rapid Identification of Strongly Lensed Gravitational-Wave Events with Machine Learning*", [arXiv:2106.12466](https://arxiv.org/abs/2106.12466), [PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.124057), 104, 124057, (2021).
 
 23) Khun Sang Phukon, Gregory Baltus, Sarah Caudill, Sebastien Clesse, Antoine Depasse, Maxime Fays, Heather Fong, **Shasvath J. Kapadia**, Ryan Magee, Andres Jorge Tanasijczuk, "*The hunt for sub-solar primordial black holes in low mass ratio binaries is open*", [arXiv:2105.11449](https://arxiv.org/abs/2105.11449).
 
