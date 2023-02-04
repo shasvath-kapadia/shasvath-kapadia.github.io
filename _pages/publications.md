@@ -39,7 +39,7 @@ title: ""
 
 14) Aditya Vijaykumar, **Shasvath J. Kapadia**, Parameswaran Ajith, "*Constraints on the time variation of the gravitational constant using gravitational-wave observations of binary neutron stars*", [arXiv:2003.12832](https://arxiv.org/abs/2003.12832), [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141104), 126, 141104, (2021).
 
-13) Deep Chatterjee, Shaon Ghosh, Patrick R. Brady, **Shasvath J. Kapadia**, Andrew L. Miller, Samaya Nissanke, Francesco Pannarale, "*A Machine Learning Based Source Property Inference for Compact Binary Mergers*", [arXiv:1911.00116]("A Machine Learning Based Source Property Inference for Compact Binary Mergers"), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ab8dbe), 896, 54, (2020).
+13) Deep Chatterjee, Shaon Ghosh, Patrick R. Brady, **Shasvath J. Kapadia**, Andrew L. Miller, Samaya Nissanke, Francesco Pannarale, "*A Machine Learning Based Source Property Inference for Compact Binary Mergers*", [arXiv:1911.00116](https://arxiv.org/abs/1911.00116), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ab8dbe), 896, 54, (2020).
 
 12) **Shasvath J. Kapadia**, Sarah Caudill, Jolien D. E. Creighton, Will M. Farr, Gregory Mendell, Alan Weinstein, Kipp Cannon, Heather Fong, Patrick Godwin, Rico K. L. Lo, Ryan Magee, Duncan Meacher, Cody Messick, Siddharth R. Mohite, Debnandini Mukherjee, Surabhi Sachdev, "*A self-consistent method to estimate the rate of compact binary coalescences with a Poisson mixture model*", [arXiv:1903.06881]("https://arxiv.org/abs/1903.06881"), [CQG](https://iopscience.iop.org/article/10.1088/1361-6382/ab5f2d), 37, 045007, (2019).
 
