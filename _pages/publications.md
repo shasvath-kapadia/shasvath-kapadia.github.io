@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+31) Sourabh Magare, **Shasvath J. Kapadia**, Anupreeta More, Mukesh Kumar Singh, Parameswaran Ajith, A. N. Ramprakash, "*Gear-up for the Action Replay: Leveraging Lensing for Enhanced Gravitational-Wave Early-Warning*", [arXiv:2302.02916](https://arxiv.org/abs/2302.02916), Submitted to ApJ Letters. 
+
 30) Adhrit Ravichandran, Aditya Vijaykumar, **Shasvath J. Kapadia**, Prayush Kumar, "*Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning*", [arXiv:2302.00666](https://arxiv.org/abs/2302.00666), Submitted to PRD.
 
 29) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Parameswaran Ajith, "*Cosmography using strongly lensed gravitational waves from binary black holes*", [arXiv:2211.12212](https://arxiv.org/abs/2211.12212), Submitted to PRL.
