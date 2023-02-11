@@ -8,4 +8,3 @@ header:
   overlay_image: /assets/images/merger.jpg
 excerpt: "Astronomy, Astrophysics and Cosmology"
 ---
-
