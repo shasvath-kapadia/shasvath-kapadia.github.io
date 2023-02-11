@@ -20,3 +20,5 @@ feature_row_left:
     url: "iucaa.in"
 ---
 
+{% include feature_row id="feature_row_left" type="left" %}
+
