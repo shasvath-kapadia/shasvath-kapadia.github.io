@@ -11,9 +11,12 @@ intro:
   - excerpt: 'Hi there! I am Shasvath, Assistant Professor at IUCAA in Pune, India. Welcome to my personal website! Here you will find details about my research, most of which concerns gravitational-wave (GW) astronomy, with a special focus on how GWs can inform and enrich other topics in astrophysics, cosmology and fundamental physics. Click on the tabs above to know more.'
 feature_row_left:
   - image_path: /assets/images/iucaa.jpg
+feature_row_right:
+  - image_path: /assets/images/iucaa2.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row_left" type="left" %}
 
+{% include feature_row id="feature_row_right" type="right" %}
