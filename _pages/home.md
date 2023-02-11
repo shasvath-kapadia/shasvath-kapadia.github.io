@@ -13,3 +13,10 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
+---
+feature_row_left:
+  - image_path: /assets/images/iucaa.jpg
+    title: "Left aligned placeholder 1"
+    url: "iucaa.in"
+---
+
