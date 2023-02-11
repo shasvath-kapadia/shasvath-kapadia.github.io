@@ -16,10 +16,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/iucaa.png
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    btn_label: "Read More"
-    btn_class: "btn--secondar"
   - image_path: /assets/images/iucaa5.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
