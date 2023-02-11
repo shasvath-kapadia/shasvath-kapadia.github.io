@@ -8,6 +8,7 @@ title: ""
 Gravitational Waves are a prediction of Einstein's General Relativity (i.e, his theory of gravitation). GR stitches together space and time into a single fabric called spacetime. Unlike Newtonian physics where spacetime is a passive canvas on which the dynamics of the Universe plays itself out, GR asserts that spacetime is in fact an active participant. Agglomerations of matter and energy warp and curve the fabric of spacetime, and the geometry of spacetime determines the trajectory of objects in the vicinity of these agglomerations.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/curvature.jpg" alt="">
+<figcaption>Image caption.</figcaption>
 
 If that is not amazing enough, GR further predicts that spacetime can also "ripple". When massive objects accelerate, they produce these ripples in spacetime that we call gravitational-waves (GWs). They are, however, extremely weak, and therefore notoriously difficult to detect. For example, binary black holes orbiting their mutual centre of mass produce GWs. These GWs travel billions of light years (the exact distance depends on the location of the source) before they reach the Earth. Their effect on a kilometer long object is to stretch and squeeze it by an amount that's smaller than the radius of the nucleus of an atom!
 
