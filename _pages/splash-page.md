@@ -13,3 +13,5 @@ feature_row:
   - image_path: /assets/images/iucaa.jpg
     title: "IUCAA -- The Inter-University Centre for Astronomy and Astrophysics"
     url: "https://www.iucaa.in/en/"
+
+{% include feature_row %}
