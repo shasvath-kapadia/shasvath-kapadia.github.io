@@ -3,7 +3,7 @@ permalink: /research/
 title: ""
 ---
 
-# About Gravitational Waves
+# Gravitational Waves
 
 Gravitational Waves are a prediction of Einstein's General Relativity (i.e, his theory of gravitation). GR stitches together space and time into a single fabric called spacetime. Unlike Newtonian physics where spacetime is a passive canvas on which the dynamics of the Universe plays itself out, GR asserts that spacetime is in fact an active participant. Agglomerations of matter and energy warp and curve the fabric of spacetime, and the geometry of spacetime determines the trajectory of objects in the vicinity of these agglomerations.
 
