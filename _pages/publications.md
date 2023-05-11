@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+33) Anarya Ray, Ignacio Magaña Hernandez, Siddharth Mohite, Jolien Creighton, **Shasvath J. Kapadia**, "*Non-parametric inference of the population of compact binaries from gravitational wave observations using binned Gaussian processes*", [arXiv:2304.08046](https://arxiv.org/abs/2304.08046). 
+
 32) Aditya Vijaykumar, Avinash Tiwari, **Shasvath J. Kapadia**, K. G. Arun, Parameswaran Ajith, "*Waltzing binaries: Probing line-of-sight acceleration of merging compact objects with gravitational waves*", [arXiv:2302.09651](https://arxiv.org/abs/2302.09651), Submitted to ApJ Letters.
 
 31) Sourabh Magare, **Shasvath J. Kapadia**, Anupreeta More, Mukesh Kumar Singh, Parameswaran Ajith, A. N. Ramprakash, "*Gear-up for the Action Replay: Leveraging Lensing for Enhanced Gravitational-Wave Early-Warning*", [arXiv:2302.02916](https://arxiv.org/abs/2302.02916), Submitted to ApJ Letters. 
