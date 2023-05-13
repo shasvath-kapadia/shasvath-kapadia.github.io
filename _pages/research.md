@@ -53,4 +53,4 @@ Since these parameters are not known a-priori, it is not clear which GW template
 
 # My Research
 
-Text to appear soon. For now, please click on the Publications tab in the Home page to check out my publications.
+Text to appear soon. For now, please click on the Publications tab on the top right corner of this page to check out my publications.
