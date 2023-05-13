@@ -13,10 +13,12 @@ feature_row:
   - image_path: /assets/images/ns_gw_art.jpg
     url: "https://shasvath-kapadia.github.io/research/#gravitational-waves" 
     btn_label: "What are gravitational-waves?"
-  - image_path: /assets/images/iucaa.png
   - image_path: /assets/images/c01_reconstruction.png
     url: "https://shasvath-kapadia.github.io/research/#gravitational-wave-data-analysis"
     btn_label: "How do we detect gravitational-waves?"
+  - image_path: /assets/images/mywork.png
+    url: "https://shasvath-kapadia.github.io/research/#gravitational-wave-data-analysis"
+    btn_label: "What do I work on?"
 ---
 
 {% include feature_row id="intro" type="center" %}
