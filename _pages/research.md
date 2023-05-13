@@ -50,3 +50,7 @@ Since these parameters are not known a-priori, it is not clear which GW template
 
 {% include video id="bBBDR5jf9oU" provider="youtube" %}
 <figcaption> Matched filtering is the method by which which GW signals are extracted from noise. The method relies on cross-correletating a GW template with the detector data to produce an SNR statistic. In stationary Gaussian noise, the SNR is expected to be the optimal statistic. In the animation above, a template is used to matched-filter detector data strain represented as a time series. The template is slid across the time axis, since the time of arrival of the signal is not known a-priori. When the template perfectly aligns with the signal, the SNR time series produces a peak. Video Credit: Alexander Nitz. </figcaption> 
+
+# My Research
+
+Text to appear soon. For now, please click on the Publications tab in the Home page to check out my publications.
