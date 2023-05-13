@@ -17,7 +17,7 @@ feature_row:
     url: "https://shasvath-kapadia.github.io/research/#gravitational-wave-data-analysis"
     btn_label: "How do we detect gravitational-waves?"
   - image_path: /assets/images/mywork.png
-    url: "https://shasvath-kapadia.github.io/research/#gravitational-wave-data-analysis"
+    url: "https://shasvath-kapadia.github.io/research/#my-research"
     btn_label: "What do I work on?"
 ---
 
