@@ -23,7 +23,7 @@ These GWs travel billions of light years (the exact distance depends on the loca
 Detecting GWs is therefore a monumental challenge. 
 
 {% include video id="tQ_teIUb3tE" provider="youtube" %}
-<figcaption>The LIGO-Virgo detectors are the most sensitive rulers to have ever been made. Nevertheless, the fundamental principle/technique used to measure the tiny changes in length -- interferometry -- is the same as what used famously by the Michelson-Morley experiment -- the experiment that confirmed the constancy of the speed of light and could not find evidence of an all-pervading aether. </figcaption>
+<figcaption>The LIGO-Virgo detectors are the most sensitive rulers to have ever been made. Nevertheless, the fundamental principle/technique used to measure the tiny changes in length -- interferometry -- is the same as what used famously by the Michelson-Morley experiment -- the experiment that confirmed the constancy of the speed of light and could not find evidence of an all-pervading aether. Video Credit: LIGO Lab Caltech/MIT </figcaption>
 
 Nevertheless, the LIGO-Virgo network of ground-based interferometric detectors observed the merger of two black holes in September 2015 (GW150914). A new window to the Universe was thus opened, and a new branch of Astronomy was born, viz., GW-Astronomy.
 
