@@ -13,8 +13,8 @@ feature_row:
   - image_path: /assets/images/ns_gw_art.jpg
     url: "https://shasvath-kapadia.github.io/research/#gravitational-waves" 
   - image_path: /assets/images/iucaa.png
-  - image_path: /assets/images/iucaa5.jpg
-    url: "https://www.iucaa.in/en/"
+  - image_path: /assets/images/GW150914.png
+    url: "https://shasvath-kapadia.github.io/research/#gravitational-wave-data-analysis"
 ---
 
 {% include feature_row id="intro" type="center" %}
