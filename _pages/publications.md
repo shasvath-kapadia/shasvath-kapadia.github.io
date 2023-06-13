@@ -5,6 +5,10 @@ title: ""
 
 # Selected Publications
 
+37) Justin Janquart, Mick Wright, Srashti Goyal, Juno C. L. Chan, Apratim Ganguly, Ángel Garrón, David Keitel, Alvin K. Y. Li, Anna Liu, Rico K. L. Lo, Anuj Mishra, Anupreeta More, Hemantakumar Phurailatpam, Prasia Pankunni, Sylvia Biscoveanu, Pablo Cremonese, Jean-René Cudell, José M. Ezquiaga, Juan Garcia-Bellido, Otto A. Hannuksela, K. Haris, Ian Harry, Martin Hendry, Sascha Husa, **Shasvath J. Kapadia**, Tjonnie G. F. Li, Ignacio Magaña Hernandez, Suvodip Mukherjee, Eungwang Seo, Chris Van Den Broek, John Veitch, "*Follow-up analyses to the O3 LIGO-Virgo-KAGRA lensing searches*", [arXiv:2306.03827](https://arxiv.org/abs/2306.03827)
+
+36) Srashti Goyal, **Shasvath J. Kapadia**, Jean-Rene Cudell, Alvin K. Y. Li, Juno C. L. Chan, "*A rapid method for preliminary identification of subthreshold strongly lensed counterparts to superthreshold gravitational-wave events*", [arXiv:2306.04397](https://arxiv.org/abs/2306.04397)
+
 35) Anarya Ray, Wanting Niu, Shio Sakon, Becca Ewing, Jolien D. E. Creighton, Chad Hanna, Shomik Adhicary, Pratyusava Baral, Amanda Baylor, Kipp Cannon, Sarah Caudill, Bryce Cousins, Heather Fong, Richard N. George, Patrick Godwin, Reiko Harada, Yun-Jing Huang, Rachael Huxford, Prathamesh Joshi, **Shasvath J. Kapadia**, James Kennington, Soichiro Kuwahara, Alvin K. Y. Li, Ryan Magee, Duncan Meacher, Cody Messick, Soichiro Morisaki, Debnandini Mukherjee, Alex Pace, Cort Posnansky, Surabhi Sachdev, Divya Singh, Ron Tapia, Leo Tsukada, Takuya Tsutsui, Koh Ueno, Aaron Viets, Leslie Wade, Madeline Wade, "*When to Point Your Telescopes: Gravitational Wave Trigger Classification for Real-Time Multi-Messenger Followup Observations*", [arXiv:2306.07190](https://arxiv.org/abs/2306.07190). 
 
 34) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Soummyadip Basak, Parameswaran Ajith, Shriharsh P. Tendulkar, "*Associating fast radio bursts with compact binary mergers via gravitational lensing*", [arXiv:2304.02879](https://arxiv.org/abs/2304.02879), Submitted to MNRAS.
