@@ -5,7 +5,7 @@ title: ""
 
 # Selected Publications
 
-38) Avinash Tiwari, Aditya Vijaykumar, Shasvath J. Kapadia, Giacomo Fragione, Sourav Chatterjee, "*Accelerated binary black holes in globular clusters: forecasts and detectability in the era of space-based gravitational-wave detectors*", [arXiv:2307.00930](https://arxiv.org/abs/2307.00930), Submitted to MNRAS.
+38) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Giacomo Fragione, Sourav Chatterjee, "*Accelerated binary black holes in globular clusters: forecasts and detectability in the era of space-based gravitational-wave detectors*", [arXiv:2307.00930](https://arxiv.org/abs/2307.00930), Submitted to MNRAS.
 
 37) Justin Janquart, Mick Wright, Srashti Goyal, Juno C. L. Chan, Apratim Ganguly, Ángel Garrón, David Keitel, Alvin K. Y. Li, Anna Liu, Rico K. L. Lo, Anuj Mishra, Anupreeta More, Hemantakumar Phurailatpam, Prasia Pankunni, Sylvia Biscoveanu, Pablo Cremonese, Jean-René Cudell, José M. Ezquiaga, Juan Garcia-Bellido, Otto A. Hannuksela, K. Haris, Ian Harry, Martin Hendry, Sascha Husa, **Shasvath J. Kapadia**, Tjonnie G. F. Li, Ignacio Magaña Hernandez, Suvodip Mukherjee, Eungwang Seo, Chris Van Den Broek, John Veitch, "*Follow-up analyses to the O3 LIGO-Virgo-KAGRA lensing searches*", [arXiv:2306.03827](https://arxiv.org/abs/2306.03827)
 
