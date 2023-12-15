@@ -15,17 +15,17 @@ title: ""
 
 35) Anarya Ray, Wanting Niu, Shio Sakon, Becca Ewing, Jolien D. E. Creighton, Chad Hanna, Shomik Adhicary, Pratyusava Baral, Amanda Baylor, Kipp Cannon, Sarah Caudill, Bryce Cousins, Heather Fong, Richard N. George, Patrick Godwin, Reiko Harada, Yun-Jing Huang, Rachael Huxford, Prathamesh Joshi, **Shasvath J. Kapadia**, James Kennington, Soichiro Kuwahara, Alvin K. Y. Li, Ryan Magee, Duncan Meacher, Cody Messick, Soichiro Morisaki, Debnandini Mukherjee, Alex Pace, Cort Posnansky, Surabhi Sachdev, Divya Singh, Ron Tapia, Leo Tsukada, Takuya Tsutsui, Koh Ueno, Aaron Viets, Leslie Wade, Madeline Wade, "*When to Point Your Telescopes: Gravitational Wave Trigger Classification for Real-Time Multi-Messenger Followup Observations*", [arXiv:2306.07190](https://arxiv.org/abs/2306.07190). 
 
-34) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Soummyadip Basak, Parameswaran Ajith, Shriharsh P. Tendulkar, "*Associating fast radio bursts with compact binary mergers via gravitational lensing*", [arXiv:2304.02879](https://arxiv.org/abs/2304.02879), Submitted to MNRAS.
+34) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Soummyadip Basak, Parameswaran Ajith, Shriharsh P. Tendulkar, "*Associating fast radio bursts with compact binary mergers via gravitational lensing*", [arXiv:2304.02879](https://arxiv.org/abs/2304.02879), [MNRAS]( https://doi.org/10.1093/mnras/stad3376), Volume 527, Issue 2, Pages 4234–4243, (2024).
 
 33) Anarya Ray, Ignacio Magaña Hernandez, Siddharth Mohite, Jolien Creighton, **Shasvath J. Kapadia**, "*Non-parametric inference of the population of compact binaries from gravitational wave observations using binned Gaussian processes*", [arXiv:2304.08046](https://arxiv.org/abs/2304.08046). 
 
-32) Aditya Vijaykumar, Avinash Tiwari, **Shasvath J. Kapadia**, K. G. Arun, Parameswaran Ajith, "*Waltzing binaries: Probing line-of-sight acceleration of merging compact objects with gravitational waves*", [arXiv:2302.09651](https://arxiv.org/abs/2302.09651), Accepted in The Astrophysical Journal.
+32) Aditya Vijaykumar, Avinash Tiwari, **Shasvath J. Kapadia**, K. G. Arun, Parameswaran Ajith, "*Waltzing binaries: Probing line-of-sight acceleration of merging compact objects with gravitational waves*", [arXiv:2302.09651](https://arxiv.org/abs/2302.09651), [ApJ](https://doi.org/10.3847/1538-4357/acd77d), 954, 105, (2023).
 
-31) Sourabh Magare, **Shasvath J. Kapadia**, Anupreeta More, Mukesh Kumar Singh, Parameswaran Ajith, A. N. Ramprakash, "*Gear-up for the Action Replay: Leveraging Lensing for Enhanced Gravitational-Wave Early-Warning*", [arXiv:2302.02916](https://arxiv.org/abs/2302.02916), Submitted to ApJ Letters. 
+31) Sourabh Magare, **Shasvath J. Kapadia**, Anupreeta More, Mukesh Kumar Singh, Parameswaran Ajith, A. N. Ramprakash, "*Gear-up for the Action Replay: Leveraging Lensing for Enhanced Gravitational-Wave Early-Warning*", [arXiv:2302.02916](https://arxiv.org/abs/2302.02916), [ApJ](https://doi.org/10.3847/2041-8213/acf668), 955, L31, (2023)
 
 30) Adhrit Ravichandran, Aditya Vijaykumar, **Shasvath J. Kapadia**, Prayush Kumar, "*Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning*", [arXiv:2302.00666](https://arxiv.org/abs/2302.00666), Submitted to PRD.
 
-29) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Parameswaran Ajith, "*Cosmography using strongly lensed gravitational waves from binary black holes*", [arXiv:2211.12212](https://arxiv.org/abs/2211.12212), Accepted in Physical Review Letters, **Selected as Editor's Suggestion**.
+29) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Parameswaran Ajith, "*Cosmography using strongly lensed gravitational waves from binary black holes*", [arXiv:2211.12212](https://arxiv.org/abs/2211.12212), [PRL](https://doi.org/10.1103/PhysRevLett.130.261401), 130, 261401, (2023), **Selected as Editor's Suggestion**.
 
 28) Soummyadip Basak, Aditya Kumar Sharma, **Shasvath J. Kapadia**, Parameswaran Ajith, "*Prospects for the observation of continuous gravitational waves from spinning neutron stars lensed by the galactic supermassive black hole*", [arxiv:2205.00022](https://arxiv.org/abs/2205.00022), [ApJ Letters](https://iopscience.iop.org/article/10.3847/2041-8213/acab50), 942, L31, (2023).
 
