@@ -21,7 +21,7 @@ title: ""
 
 32) Aditya Vijaykumar, Avinash Tiwari, **Shasvath J. Kapadia**, K. G. Arun, Parameswaran Ajith, "*Waltzing binaries: Probing line-of-sight acceleration of merging compact objects with gravitational waves*", [arXiv:2302.09651](https://arxiv.org/abs/2302.09651), [ApJ](https://doi.org/10.3847/1538-4357/acd77d), 954, 105, (2023).
 
-31) Sourabh Magare, **Shasvath J. Kapadia**, Anupreeta More, Mukesh Kumar Singh, Parameswaran Ajith, A. N. Ramprakash, "*Gear-up for the Action Replay: Leveraging Lensing for Enhanced Gravitational-Wave Early-Warning*", [arXiv:2302.02916](https://arxiv.org/abs/2302.02916), [ApJ](https://doi.org/10.3847/2041-8213/acf668), 955, L31, (2023)
+31) Sourabh Magare, **Shasvath J. Kapadia**, Anupreeta More, Mukesh Kumar Singh, Parameswaran Ajith, A. N. Ramprakash, "*Gear-up for the Action Replay: Leveraging Lensing for Enhanced Gravitational-Wave Early-Warning*", [arXiv:2302.02916](https://arxiv.org/abs/2302.02916), [ApJ Letters](https://doi.org/10.3847/2041-8213/acf668), 955, L31, (2023)
 
 30) Adhrit Ravichandran, Aditya Vijaykumar, **Shasvath J. Kapadia**, Prayush Kumar, "*Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning*", [arXiv:2302.00666](https://arxiv.org/abs/2302.00666), Submitted to PRD.
 
