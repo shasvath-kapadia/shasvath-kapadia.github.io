@@ -5,11 +5,12 @@ title: ""
 
 # Selected Publications
 
-40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553) 
+41) Md Arif Shaikh, Sajad A. Bhat, **Shasvath J. Kapadia**, "*A study of the Inspiral-Merger-Ringdown Consistency Test with gravitational-wave signals from compact binaries in eccentric orbits*", [arXiv:2402.15110](https://arxiv.org/abs/2402.15110).
 
-39) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Aditya Vijaykumar, Parameswaran Ajith, "*Impact of higher harmonics of gravitational radiation on the population inference of binary black holes*", [arXiv:2312.07376](https://arxiv.org/abs/2312.07376)
+40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553). 
+39) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Aditya Vijaykumar, Parameswaran Ajith, "*Impact of higher harmonics of gravitational radiation on the population inference of binary black holes*", [arXiv:2312.07376](https://arxiv.org/abs/2312.07376).
 
-38) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Giacomo Fragione, Sourav Chatterjee, "*Accelerated binary black holes in globular clusters: forecasts and detectability in the era of space-based gravitational-wave detectors*", [arXiv:2307.00930](https://arxiv.org/abs/2307.00930), Submitted to MNRAS.
+38) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Giacomo Fragione, Sourav Chatterjee, "*Accelerated binary black holes in globular clusters: forecasts and detectability in the era of space-based gravitational-wave detectors*", [arXiv:2307.00930](https://arxiv.org/abs/2307.00930), [MNRAS](https://academic.oup.com/mnras/article/527/3/8586/7459933), Volume 527, Issue 3, January 2024, Pages 8586–8597.
 
 37) Justin Janquart, Mick Wright, Srashti Goyal, Juno C. L. Chan, Apratim Ganguly, Ángel Garrón, David Keitel, Alvin K. Y. Li, Anna Liu, Rico K. L. Lo, Anuj Mishra, Anupreeta More, Hemantakumar Phurailatpam, Prasia Pankunni, Sylvia Biscoveanu, Pablo Cremonese, Jean-René Cudell, José M. Ezquiaga, Juan Garcia-Bellido, Otto A. Hannuksela, K. Haris, Ian Harry, Martin Hendry, Sascha Husa, **Shasvath J. Kapadia**, Tjonnie G. F. Li, Ignacio Magaña Hernandez, Suvodip Mukherjee, Eungwang Seo, Chris Van Den Broek, John Veitch, "*Follow-up analyses to the O3 LIGO-Virgo-KAGRA lensing searches*", [arXiv:2306.03827](https://arxiv.org/abs/2306.03827)
 
