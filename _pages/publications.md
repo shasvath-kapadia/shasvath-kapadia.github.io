@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+43) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604).
+
 42) Gopalkrishna Prabhu, Aditya Kumar Sharma, R. Prasad, **Shasvath J. Kapadia**, "*Constraining the abundance of Galactic compact objects with continuous gravitational waves*", [arXiv:2403.00502](https://arxiv.org/abs/2403.00502).
 
 41) Md Arif Shaikh, Sajad A. Bhat, **Shasvath J. Kapadia**, "*A study of the Inspiral-Merger-Ringdown Consistency Test with gravitational-wave signals from compact binaries in eccentric orbits*", [arXiv:2402.15110](https://arxiv.org/abs/2402.15110).
