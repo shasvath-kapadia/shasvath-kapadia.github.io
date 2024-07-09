@@ -5,7 +5,9 @@ title: ""
 
 # Selected Publications
 
-43) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604).
+44) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604).
+
+43) Souvik Jana, **Shasvath J Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Strong-lensing cosmography using third-generation gravitational-wave detectors*", [arXiv:2405.17805](https://arxiv.org/abs/2405.17805).
 
 42) Gopalkrishna Prabhu, Aditya Kumar Sharma, R. Prasad, **Shasvath J. Kapadia**, "*Constraining the abundance of Galactic compact objects with continuous gravitational waves*", [arXiv:2403.00502](https://arxiv.org/abs/2403.00502).
 
