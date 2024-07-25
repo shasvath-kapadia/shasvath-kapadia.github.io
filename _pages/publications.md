@@ -13,7 +13,7 @@ title: ""
 
 42) Gopalkrishna Prabhu, Aditya Kumar Sharma, R. Prasad, **Shasvath J. Kapadia**, "*Constraining the abundance of Galactic compact objects with continuous gravitational waves*", [arXiv:2403.00502](https://arxiv.org/abs/2403.00502).
 
-41) Md Arif Shaikh, Sajad A. Bhat, **Shasvath J. Kapadia**, "*A study of the Inspiral-Merger-Ringdown Consistency Test with gravitational-wave signals from compact binaries in eccentric orbits*", [arXiv:2402.15110](https://arxiv.org/abs/2402.15110).
+41) Md Arif Shaikh, Sajad A. Bhat, **Shasvath J. Kapadia**, "*A study of the Inspiral-Merger-Ringdown Consistency Test with gravitational-wave signals from compact binaries in eccentric orbits*", [arXiv:2402.15110](https://arxiv.org/abs/2402.15110), [PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.024030), 110, 024030, (2024)
 
 40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553).
 
