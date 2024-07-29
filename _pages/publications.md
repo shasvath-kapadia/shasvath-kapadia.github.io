@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878)
+
 45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117)
 
 44) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604).
