@@ -5,7 +5,9 @@ title: ""
 
 # Selected Publications
 
-46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878)
+47) **Shasvath J. Kapadia**, Dimple, Dhruv Jain, Resmi Lekshmi, Kuntal Misra and K. G. Arun, "*Rates and beaming angles of GRBs associated with compact binary coalescences*", [arXiv:2407.19033](https://arxiv.org/abs/2407.19033)
+
+46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith, "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878)
 
 45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117)
 
