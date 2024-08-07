@@ -21,7 +21,7 @@ title: ""
 
 40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553).
 
-39) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Aditya Vijaykumar, Parameswaran Ajith, "*Impact of higher harmonics of gravitational radiation on the population inference of binary black holes*", [arXiv:2312.07376](https://arxiv.org/abs/2312.07376).
+39) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Aditya Vijaykumar, Parameswaran Ajith, "*Impact of higher harmonics of gravitational radiation on the population inference of binary black holes*", [arXiv:2312.07376](https://arxiv.org/abs/2312.07376), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ad499b), 971 23, (2024)
 
 38) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Giacomo Fragione, Sourav Chatterjee, "*Accelerated binary black holes in globular clusters: forecasts and detectability in the era of space-based gravitational-wave detectors*", [arXiv:2307.00930](https://arxiv.org/abs/2307.00930), [MNRAS](https://academic.oup.com/mnras/article/527/3/8586/7459933), Volume 527, Issue 3, January 2024, Pages 8586–8597.
 
