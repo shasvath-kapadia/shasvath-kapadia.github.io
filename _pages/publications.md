@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+48) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Probing the nature of dark matter using strongly lensed gravitational waves from binary black holes*", [arXiv:2408.05290](https://arxiv.org/abs/2408.05290)
+
 47) **Shasvath J. Kapadia**, Dimple, Dhruv Jain, Resmi Lekshmi, Kuntal Misra and K. G. Arun, "*Rates and beaming angles of GRBs associated with compact binary coalescences*", [arXiv:2407.19033](https://arxiv.org/abs/2407.19033)
 
 46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith, "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878)
