@@ -23,7 +23,7 @@ title: ""
 
 40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553).
 
-39) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Aditya Vijaykumar, Parameswaran Ajith, "*Impact of higher harmonics of gravitational radiation on the population inference of binary black holes*", [arXiv:2312.07376](https://arxiv.org/abs/2312.07376), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ad499b), 971 23, (2024)
+39) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Aditya Vijaykumar, Parameswaran Ajith, "*Impact of higher harmonics of gravitational radiation on the population inference of binary black holes*", [arXiv:2312.07376](https://arxiv.org/abs/2312.07376), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ad499b), 971, 23, (2024)
 
 38) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Giacomo Fragione, Sourav Chatterjee, "*Accelerated binary black holes in globular clusters: forecasts and detectability in the era of space-based gravitational-wave detectors*", [arXiv:2307.00930](https://arxiv.org/abs/2307.00930), [MNRAS](https://academic.oup.com/mnras/article/527/3/8586/7459933), Volume 527, Issue 3, January 2024, Pages 8586–8597.
 
@@ -35,7 +35,7 @@ title: ""
 
 34) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Soummyadip Basak, Parameswaran Ajith, Shriharsh P. Tendulkar, "*Associating fast radio bursts with compact binary mergers via gravitational lensing*", [arXiv:2304.02879](https://arxiv.org/abs/2304.02879), [MNRAS]( https://doi.org/10.1093/mnras/stad3376), Volume 527, Issue 2, Pages 4234–4243, (2024).
 
-33) Anarya Ray, Ignacio Magaña Hernandez, Siddharth Mohite, Jolien Creighton, **Shasvath J. Kapadia**, "*Non-parametric inference of the population of compact binaries from gravitational wave observations using binned Gaussian processes*", [arXiv:2304.08046](https://arxiv.org/abs/2304.08046). 
+33) Anarya Ray, Ignacio Magaña Hernandez, Siddharth Mohite, Jolien Creighton, **Shasvath J. Kapadia**, "*Non-parametric inference of the population of compact binaries from gravitational wave observations using binned Gaussian processes*", [arXiv:2304.08046](https://arxiv.org/abs/2304.08046), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/acf452), 957, 37, (2023) 
 
 32) Aditya Vijaykumar, Avinash Tiwari, **Shasvath J. Kapadia**, K. G. Arun, Parameswaran Ajith, "*Waltzing binaries: Probing line-of-sight acceleration of merging compact objects with gravitational waves*", [arXiv:2302.09651](https://arxiv.org/abs/2302.09651), [ApJ](https://doi.org/10.3847/1538-4357/acd77d), 954, 105, (2023).
 
