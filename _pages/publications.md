@@ -17,7 +17,7 @@ title: ""
 
 43) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Strong-lensing cosmography using third-generation gravitational-wave detectors*", [arXiv:2405.17805](https://arxiv.org/abs/2405.17805).
 
-42) Gopalkrishna Prabhu, Aditya Kumar Sharma, R. Prasad, **Shasvath J. Kapadia**, "*Constraining the abundance of Galactic compact objects with continuous gravitational waves*", [arXiv:2403.00502](https://arxiv.org/abs/2403.00502).
+42) Gopalkrishna Prabhu, Aditya Kumar Sharma, R. Prasad, **Shasvath J. Kapadia**, "*Constraining the abundance of Galactic compact objects with continuous gravitational waves*", [arXiv:2403.00502](https://arxiv.org/abs/2403.00502), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ad583f), 971, 135, (2024)
 
 41) Md Arif Shaikh, Sajad A. Bhat, **Shasvath J. Kapadia**, "*A study of the Inspiral-Merger-Ringdown Consistency Test with gravitational-wave signals from compact binaries in eccentric orbits*", [arXiv:2402.15110](https://arxiv.org/abs/2402.15110), [PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.024030), 110, 024030, (2024)
 
