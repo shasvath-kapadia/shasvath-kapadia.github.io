@@ -9,7 +9,7 @@ title: ""
 
 48) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Probing the nature of dark matter using strongly lensed gravitational waves from binary black holes*", [arXiv:2408.05290](https://arxiv.org/abs/2408.05290)
 
-47) **Shasvath J. Kapadia**, Dimple, Dhruv Jain, Resmi Lekshmi, Kuntal Misra and K. G. Arun, "*Rates and beaming angles of GRBs associated with compact binary coalescences*", [arXiv:2407.19033](https://arxiv.org/abs/2407.19033)
+47) **Shasvath J. Kapadia**, Dimple, Dhruv Jain, Resmi Lekshmi, Kuntal Misra and K. G. Arun, "*Rates and beaming angles of GRBs associated with compact binary coalescences*", [arXiv:2407.19033](https://arxiv.org/abs/2407.19033), [ApJ Letters](https://iopscience.iop.org/article/10.3847/2041-8213/ad8dc7), 976, 10, (2024) 
 
 46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith, "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878), [ApJ Letters](https://iopscience.iop.org/article/10.3847/1538-4357/ad77c4), 975, 48, (2024)
 
@@ -17,7 +17,7 @@ title: ""
 
 44) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604).
 
-43) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Strong-lensing cosmography using third-generation gravitational-wave detectors*", [arXiv:2405.17805](https://arxiv.org/abs/2405.17805).
+43) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Strong-lensing cosmography using third-generation gravitational-wave detectors*", [arXiv:2405.17805](https://arxiv.org/abs/2405.17805), [CQG](https://iopscience.iop.org/article/10.1088/1361-6382/ad8d2e), 41, 245010, (2024)
 
 42) Gopalkrishna Prabhu, Aditya Kumar Sharma, R. Prasad, **Shasvath J. Kapadia**, "*Constraining the abundance of Galactic compact objects with continuous gravitational waves*", [arXiv:2403.00502](https://arxiv.org/abs/2403.00502), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ad583f), 971, 135, (2024)
 
