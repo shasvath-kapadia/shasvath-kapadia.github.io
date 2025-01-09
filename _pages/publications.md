@@ -5,6 +5,9 @@ title: ""
 
 # Selected Publications
 
+50) Uddeepta Deka, Gopalkrishna Prabhu, Md Arif Shaikh, **Shasvath J. Kapadia**, Vijay Varma, Scott E. Field, "*Surrogate modeling of gravitational waves microlensed by spherically symmetric potentials*", [arXiv:2501.02974
+](https://www.arxiv.org/abs/2501.02974)
+
 49) Tathagata Ghosh, Bhaskar Biswas, Sukanta Bose, **Shasvath J. Kapadia**, "*Joint Inference of Population, Cosmology, and Neutron Star Equation of State from Gravitational Waves of Dark Binary Neutron Stars*", [arXiv:2407.16669](https://arxiv.org/abs/2407.16669)
 
 48) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Probing the nature of dark matter using strongly lensed gravitational waves from binary black holes*", [arXiv:2408.05290](https://arxiv.org/abs/2408.05290)
