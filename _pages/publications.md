@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+51) Sudhir Gholap, Kanchan Soni, **Shasvath J. Kapadia**, Sanjeev Dhurandhar, "*A χ2 statistic for the identification of strongly lensed gravitational waves from compact binary coalescences*", [arXiv:2502.00844](https://arxiv.org/abs/2502.00844)
+
 50) Uddeepta Deka, Gopalkrishna Prabhu, Md Arif Shaikh, **Shasvath J. Kapadia**, Vijay Varma, Scott E. Field, "*Surrogate modeling of gravitational waves microlensed by spherically symmetric potentials*", [arXiv:2501.02974
 ](https://www.arxiv.org/abs/2501.02974)
 
