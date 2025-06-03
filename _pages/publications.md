@@ -10,7 +10,7 @@ title: ""
 51) Sudhir Gholap, Kanchan Soni, **Shasvath J. Kapadia**, Sanjeev Dhurandhar, "*A χ2 statistic for the identification of strongly lensed gravitational waves from compact binary coalescences*", [arXiv:2502.00844](https://arxiv.org/abs/2502.00844)
 
 50) Uddeepta Deka, Gopalkrishna Prabhu, Md Arif Shaikh, **Shasvath J. Kapadia**, Vijay Varma, Scott E. Field, "*Surrogate modeling of gravitational waves microlensed by spherically symmetric potentials*", [arXiv:2501.02974
-](https://www.arxiv.org/abs/2501.02974)
+](https://www.arxiv.org/abs/2501.02974), [PRD](https://doi.org/10.1103/PhysRevD.111.104042)
 
 49) Tathagata Ghosh, Bhaskar Biswas, Sukanta Bose, **Shasvath J. Kapadia**, "*Joint Inference of Population, Cosmology, and Neutron Star Equation of State from Gravitational Waves of Dark Binary Neutron Stars*", [arXiv:2407.16669](https://arxiv.org/abs/2407.16669)
 
@@ -30,7 +30,7 @@ title: ""
 
 41) Md Arif Shaikh, Sajad A. Bhat, **Shasvath J. Kapadia**, "*A study of the Inspiral-Merger-Ringdown Consistency Test with gravitational-wave signals from compact binaries in eccentric orbits*", [arXiv:2402.15110](https://arxiv.org/abs/2402.15110), [PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.024030), 110, 024030, (2024)
 
-40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553).
+40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553), [PRD](https://doi.org/10.1103/PhysRevD.111.064028)
 
 39) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Aditya Vijaykumar, Parameswaran Ajith, "*Impact of higher harmonics of gravitational radiation on the population inference of binary black holes*", [arXiv:2312.07376](https://arxiv.org/abs/2312.07376), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ad499b), 971, 23, (2024)
 
