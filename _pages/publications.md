@@ -5,7 +5,7 @@ title: ""
 
 # Selected Publications
 
-53) Teruaki Suyama, **Shasvath J. Kapadia**, "*Teruaki Suyama, Shasvath J. Kapadia*", [arXiv:2506.02430](https://arxiv.org/abs/2506.02430)
+53) Teruaki Suyama, **Shasvath J. Kapadia**, "*On the Phase-Magnitude Relation in Gravitational Lensing: Reformulation and Applications of the Kramers-Kronig relation*", [arXiv:2506.02430](https://arxiv.org/abs/2506.02430)
 
 52) So Tanaka, Gopalkrishna Prabhu, **Shasvath J. Kapadia**, Teruaki Suyama, "*Towards model-independent identification of lensed gravitational waves using Kramers-Kronig relation*", [arXiv:2504.21320](https://arxiv.org/abs/2504.21320)
 
