@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+54) Sulagna Bhattacharya, **Shasvath Kapadia**, Basudeb Dasgupta, "*Distinguishing Neutron Star vs. Low-Mass Black Hole Binaries with Postmerger Gravitational Waves − Sensitivity to Transmuted Black Holes and Non-Annihilating Dark Matter*", [arXiv:2507.15951](https://arxiv.org/abs/2507.15951)
+
 53) Teruaki Suyama, **Shasvath J. Kapadia**, "*On the Phase-Magnitude Relation in Gravitational Lensing: Reformulation and Applications of the Kramers-Kronig relation*", [arXiv:2506.02430](https://arxiv.org/abs/2506.02430)
 
 52) So Tanaka, Gopalkrishna Prabhu, **Shasvath J. Kapadia**, Teruaki Suyama, "*Towards model-independent identification of lensed gravitational waves using Kramers-Kronig relation*", [arXiv:2504.21320](https://arxiv.org/abs/2504.21320)
