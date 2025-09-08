@@ -5,6 +5,10 @@ title: ""
 
 # Selected Publications
 
+56) Avinash Tiwari, Prolay Chanda, **Shasvath J. Kapadia**, Susmita Adhikari, Aditya Vijaykumar, Basudeb Dasgupta, "Profiling Dark Matter Spikes with Gravitational Waves from Accelerated Binaries", [arXiv:2508.03803](https://arxiv.org/abs/2508.03803) 
+
+55) Sajad A. Bhat, Avinash Tiwari, Md Arif Shaikh, **Shasvath J. Kapadia**, "*EECT: an Eccentricity Evolution Consistency Test to distinguish eccentric gravitational-wave signals from eccentricity mimickers*", [arXiv:2508.14850](https://arxiv.org/abs/2508.14850)
+
 54) Sulagna Bhattacharya, **Shasvath Kapadia**, Basudeb Dasgupta, "*Distinguishing Neutron Star vs. Low-Mass Black Hole Binaries with Postmerger Gravitational Waves − Sensitivity to Transmuted Black Holes and Non-Annihilating Dark Matter*", [arXiv:2507.15951](https://arxiv.org/abs/2507.15951)
 
 53) Teruaki Suyama, **Shasvath J. Kapadia**, "*On the Phase-Magnitude Relation in Gravitational Lensing: Reformulation and Applications of the Kramers-Kronig relation*", [arXiv:2506.02430](https://arxiv.org/abs/2506.02430)
