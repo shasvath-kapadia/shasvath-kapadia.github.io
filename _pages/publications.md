@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+57) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Shrobana Ghosh, Alex B. Nielsen, "*A pipeline to search for signatures of line-of-sight acceleration in gravitational wave signals produced by compact binary coalescences*", [arXiv:2506.22272](https://arxiv.org/abs/2506.22272)
+
 56) Avinash Tiwari, Prolay Chanda, **Shasvath J. Kapadia**, Susmita Adhikari, Aditya Vijaykumar, Basudeb Dasgupta, "Profiling Dark Matter Spikes with Gravitational Waves from Accelerated Binaries", [arXiv:2508.03803](https://arxiv.org/abs/2508.03803) 
 
 55) Sajad A. Bhat, Avinash Tiwari, Md Arif Shaikh, **Shasvath J. Kapadia**, "*EECT: an Eccentricity Evolution Consistency Test to distinguish eccentric gravitational-wave signals from eccentricity mimickers*", [arXiv:2508.14850](https://arxiv.org/abs/2508.14850)
@@ -28,9 +30,9 @@ title: ""
 
 46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith, "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878), [ApJ Letters](https://iopscience.iop.org/article/10.3847/1538-4357/ad77c4), 975, 48, (2024)
 
-45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117)
+45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117), [PRD](https://doi.org/10.1103/gspl-m478), (2025, Accepted)
 
-44) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604).
+44) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604), [PRD](https://doi.org/10.1103/c344-fm5w) 112, 024068, (2025)
 
 43) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Strong-lensing cosmography using third-generation gravitational-wave detectors*", [arXiv:2405.17805](https://arxiv.org/abs/2405.17805), [CQG](https://iopscience.iop.org/article/10.1088/1361-6382/ad8d2e), 41, 245010, (2024)
 
