@@ -5,7 +5,7 @@ title: ""
 
 # Selected Publications
 
-58) Sourabh Magare, Anupreeta More, Shasvath J. Kapadia, "*Early warning for lensed gravitational wave counterparts from time delays of their host galaxies observed in the optical*", [arXiv:2509.07967](https://arxiv.org/abs/2509.07967), 
+58) Sourabh Magare, Anupreeta More, Shasvath J. Kapadia, "*Early warning for lensed gravitational wave counterparts from time delays of their host galaxies observed in the optical*", [arXiv:2509.07967](https://arxiv.org/abs/2509.07967)
 
 57) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Shrobana Ghosh, Alex B. Nielsen, "*A pipeline to search for signatures of line-of-sight acceleration in gravitational wave signals produced by compact binary coalescences*", [arXiv:2506.22272](https://arxiv.org/abs/2506.22272)
 
@@ -22,7 +22,7 @@ title: ""
 51) Sudhir Gholap, Kanchan Soni, **Shasvath J. Kapadia**, Sanjeev Dhurandhar, "*A χ2 statistic for the identification of strongly lensed gravitational waves from compact binary coalescences*", [arXiv:2502.00844](https://arxiv.org/abs/2502.00844)
 
 50) Uddeepta Deka, Gopalkrishna Prabhu, Md Arif Shaikh, **Shasvath J. Kapadia**, Vijay Varma, Scott E. Field, "*Surrogate modeling of gravitational waves microlensed by spherically symmetric potentials*", [arXiv:2501.02974
-](https://www.arxiv.org/abs/2501.02974), [PRD](https://doi.org/10.1103/PhysRevD.111.104042)
+](https://www.arxiv.org/abs/2501.02974), [PRD](https://doi.org/10.1103/PhysRevD.111.104042), 111, 104042, (2025)
 
 49) Tathagata Ghosh, Bhaskar Biswas, Sukanta Bose, **Shasvath J. Kapadia**, "*Joint Inference of Population, Cosmology, and Neutron Star Equation of State from Gravitational Waves of Dark Binary Neutron Stars*", [arXiv:2407.16669](https://arxiv.org/abs/2407.16669)
 
