@@ -5,9 +5,11 @@ title: ""
 
 # Selected Publications
 
+58) Sourabh Magare, Anupreeta More, Shasvath J. Kapadia, "*Early warning for lensed gravitational wave counterparts from time delays of their host galaxies observed in the optical*", [arXiv:2509.07967](https://arxiv.org/abs/2509.07967), 
+
 57) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Shrobana Ghosh, Alex B. Nielsen, "*A pipeline to search for signatures of line-of-sight acceleration in gravitational wave signals produced by compact binary coalescences*", [arXiv:2506.22272](https://arxiv.org/abs/2506.22272)
 
-56) Avinash Tiwari, Prolay Chanda, **Shasvath J. Kapadia**, Susmita Adhikari, Aditya Vijaykumar, Basudeb Dasgupta, "Profiling Dark Matter Spikes with Gravitational Waves from Accelerated Binaries", [arXiv:2508.03803](https://arxiv.org/abs/2508.03803) 
+56) Avinash Tiwari, Prolay Chanda, **Shasvath J. Kapadia**, Susmita Adhikari, Aditya Vijaykumar, Basudeb Dasgupta, "Profiling Dark Matter Spikes with Gravitational Waves from Accelerated Binaries", [arXiv:2508.03803](https://arxiv.org/abs/2508.03803), [PRD](https://journals.aps.org/prd/abstract/10.1103/gspl-m478), 112, 084034
 
 55) Sajad A. Bhat, Avinash Tiwari, Md Arif Shaikh, **Shasvath J. Kapadia**, "*EECT: an Eccentricity Evolution Consistency Test to distinguish eccentric gravitational-wave signals from eccentricity mimickers*", [arXiv:2508.14850](https://arxiv.org/abs/2508.14850)
 
@@ -24,13 +26,12 @@ title: ""
 
 49) Tathagata Ghosh, Bhaskar Biswas, Sukanta Bose, **Shasvath J. Kapadia**, "*Joint Inference of Population, Cosmology, and Neutron Star Equation of State from Gravitational Waves of Dark Binary Neutron Stars*", [arXiv:2407.16669](https://arxiv.org/abs/2407.16669)
 
-48) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Probing the nature of dark matter using strongly lensed gravitational waves from binary black holes*", [arXiv:2408.05290](https://arxiv.org/abs/2408.05290)
+48) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Probing the nature of dark matter using strongly lensed gravitational waves from binary black holes*", [arXiv:2408.05290](https://arxiv.org/abs/2408.05290), [PRL](https://journals.aps.org/prl/abstract/10.1103/7q31-3qwz), 135, 111402, (2025)
 
 47) **Shasvath J. Kapadia**, Dimple, Dhruv Jain, Resmi Lekshmi, Kuntal Misra and K. G. Arun, "*Rates and beaming angles of GRBs associated with compact binary coalescences*", [arXiv:2407.19033](https://arxiv.org/abs/2407.19033), [ApJ Letters](https://iopscience.iop.org/article/10.3847/2041-8213/ad8dc7), 976, 10, (2024) 
-
 46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith, "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878), [ApJ Letters](https://iopscience.iop.org/article/10.3847/1538-4357/ad77c4), 975, 48, (2024)
 
-45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117), [PRD](https://doi.org/10.1103/gspl-m478), Accepted, (2025)
+45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117), [PRD](https://doi.org/10.1103/gspl-m478), [PRD](https://journals.aps.org/prd/abstract/10.1103/gspl-m478), 112, 084034, (2025)
 
 44) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604), [PRD](https://doi.org/10.1103/c344-fm5w) 112, 024068, (2025)
 
@@ -40,7 +41,7 @@ title: ""
 
 41) Md Arif Shaikh, Sajad A. Bhat, **Shasvath J. Kapadia**, "*A study of the Inspiral-Merger-Ringdown Consistency Test with gravitational-wave signals from compact binaries in eccentric orbits*", [arXiv:2402.15110](https://arxiv.org/abs/2402.15110), [PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.024030), 110, 024030, (2024)
 
-40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553), [PRD](https://doi.org/10.1103/PhysRevD.111.064028)
+40) Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, Md Arif Shaikh, Parameswaran Ajith, "*Probing black hole charge with gravitational microlensing of gravitational waves*", [arXiv:2401.06553](https://arxiv.org/abs/2401.06553), [PRD](https://doi.org/10.1103/PhysRevD.111.064028), 111, 104042, (2025)
 
 39) Mukesh Kumar Singh, **Shasvath J. Kapadia**, Aditya Vijaykumar, Parameswaran Ajith, "*Impact of higher harmonics of gravitational radiation on the population inference of binary black holes*", [arXiv:2312.07376](https://arxiv.org/abs/2312.07376), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ad499b), 971, 23, (2024)
 
