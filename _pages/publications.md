@@ -9,7 +9,7 @@ title: ""
 
 57) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Shrobana Ghosh, Alex B. Nielsen, "*A pipeline to search for signatures of line-of-sight acceleration in gravitational wave signals produced by compact binary coalescences*", [arXiv:2506.22272](https://arxiv.org/abs/2506.22272)
 
-56) Avinash Tiwari, Prolay Chanda, **Shasvath J. Kapadia**, Susmita Adhikari, Aditya Vijaykumar, Basudeb Dasgupta, "Profiling Dark Matter Spikes with Gravitational Waves from Accelerated Binaries", [arXiv:2508.03803](https://arxiv.org/abs/2508.03803), [PRD](https://journals.aps.org/prd/abstract/10.1103/gspl-m478), 112, 084034
+56) Avinash Tiwari, Prolay Chanda, **Shasvath J. Kapadia**, Susmita Adhikari, Aditya Vijaykumar, Basudeb Dasgupta, "*Profiling Dark Matter Spikes with Gravitational Waves from Accelerated Binaries*", [arXiv:2508.03803](https://arxiv.org/abs/2508.03803)
 
 55) Sajad A. Bhat, Avinash Tiwari, Md Arif Shaikh, **Shasvath J. Kapadia**, "*EECT: an Eccentricity Evolution Consistency Test to distinguish eccentric gravitational-wave signals from eccentricity mimickers*", [arXiv:2508.14850](https://arxiv.org/abs/2508.14850)
 
