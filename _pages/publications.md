@@ -5,7 +5,9 @@ title: ""
 
 # Selected Publications
 
-58) Sourabh Magare, Anupreeta More, Shasvath J. Kapadia, "*Early warning for lensed gravitational wave counterparts from time delays of their host galaxies observed in the optical*", [arXiv:2509.07967](https://arxiv.org/abs/2509.07967)
+59) Avinash Tiwari, Sajad A. Bhat, Md Arif Shaikh, **Shasvath J. Kapadia**, "*Testing the nature of GW200105 by probing the frequency evolution of eccentricity*", [arXiv:2509.26152](https://arxiv.org/abs/2509.26152)
+
+58) Sourabh Magare, Anupreeta More, **Shasvath J. Kapadia**, "*Early warning for lensed gravitational wave counterparts from time delays of their host galaxies observed in the optical*", [arXiv:2509.07967](https://arxiv.org/abs/2509.07967)
 
 57) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Shrobana Ghosh, Alex B. Nielsen, "*A pipeline to search for signatures of line-of-sight acceleration in gravitational wave signals produced by compact binary coalescences*", [arXiv:2506.22272](https://arxiv.org/abs/2506.22272)
 
