@@ -30,7 +30,8 @@ title: ""
 
 48) Souvik Jana, **Shasvath J. Kapadia**, Tejaswi Venumadhav, Surhud More, Parameswaran Ajith, "*Probing the nature of dark matter using strongly lensed gravitational waves from binary black holes*", [arXiv:2408.05290](https://arxiv.org/abs/2408.05290), [PRL](https://journals.aps.org/prl/abstract/10.1103/7q31-3qwz), 135, 111402, (2025)
 
-47) **Shasvath J. Kapadia**, Dimple, Dhruv Jain, Resmi Lekshmi, Kuntal Misra and K. G. Arun, "*Rates and beaming angles of GRBs associated with compact binary coalescences*", [arXiv:2407.19033](https://arxiv.org/abs/2407.19033), [ApJ Letters](https://iopscience.iop.org/article/10.3847/2041-8213/ad8dc7), 976, 10, (2024) 
+47) **Shasvath J. Kapadia**, Dimple, Dhruv Jain, Resmi Lekshmi, Kuntal Misra and K. G. Arun, "*Rates and beaming angles of GRBs associated with compact binary coalescences*", [arXiv:2407.19033](https://arxiv.org/abs/2407.19033), [ApJ Letters](https://iopscience.iop.org/article/10.3847/2041-8213/ad8dc7), 976, 10, (2024)
+
 46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith, "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878), [ApJ Letters](https://iopscience.iop.org/article/10.3847/1538-4357/ad77c4), 975, 48, (2024)
 
 45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117), [PRD](https://doi.org/10.1103/gspl-m478), [PRD](https://journals.aps.org/prd/abstract/10.1103/gspl-m478), 112, 084034, (2025)
