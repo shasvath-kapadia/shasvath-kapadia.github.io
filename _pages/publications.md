@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+60) Sourabh Magare, Abhinav Roy, **Shasvath J. Kapadia**, Nishikanta Khandai, R. Srianand, "*Forecasting properties of detectable massive binary black hole mergers in the era of space based gravitational-wave detectors*", [arXiv:2511.14739](https://arxiv.org/abs/2511.14739)
+
 59) Avinash Tiwari, Sajad A. Bhat, Md Arif Shaikh, **Shasvath J. Kapadia**, "*Testing the nature of GW200105 by probing the frequency evolution of eccentricity*", [arXiv:2509.26152](https://arxiv.org/abs/2509.26152)
 
 58) Sourabh Magare, Anupreeta More, **Shasvath J. Kapadia**, "*Early warning for lensed gravitational wave counterparts from time delays of their host galaxies observed in the optical*", [arXiv:2509.07967](https://arxiv.org/abs/2509.07967)
