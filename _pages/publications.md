@@ -5,7 +5,7 @@ title: ""
 
 # Selected Publications
 
-61) Gopalkrishna Prabhu, Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, "*Probing the spin of compact objects with gravitational microlensing of gravitational waves*", [arXiv:2512.18707](https://arxiv.org/abs/2512.18707), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ae1d74), 995 48, (2026)
+61) Gopalkrishna Prabhu, Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, "*Probing the spin of compact objects with gravitational microlensing of gravitational waves*", [arXiv:2512.18707](https://arxiv.org/abs/2512.18707)
 
 60) Sourabh Magare, Abhinav Roy, **Shasvath J. Kapadia**, Nishikanta Khandai, R. Srianand, "*Forecasting properties of detectable massive binary black hole mergers in the era of space based gravitational-wave detectors*", [arXiv:2511.14739](https://arxiv.org/abs/2511.14739)
 
@@ -38,7 +38,7 @@ title: ""
 
 46) A. Barsode, **Shasvath J. Kapadia**, P. Ajith, "*Constraints on compact dark matter from the non-observation of gravitational-wave strong lensing*", [arXiv:2405.15878](https://arxiv.org/abs/2405.15878), [ApJ Letters](https://iopscience.iop.org/article/10.3847/1538-4357/ad77c4), 975, 48, (2024)
 
-45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117), [PRD](https://doi.org/10.1103/gspl-m478), [PRD](https://journals.aps.org/prd/abstract/10.1103/gspl-m478), 112, 084034, (2025)
+45) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, Giacomo Fragione, "*Profiling stellar environments of gravitational wave sources*", [arXiv:2407.15117](https://arxiv.org/abs/2407.15117), [PRD](https://journals.aps.org/prd/abstract/10.1103/gspl-m478), 112, 084034, (2025)
 
 44) Sajad A. Bhat, Srijit Bhattacharjee, **Shasvath J. Kapadia**, "*Can the Near-Horizon Black Hole Memory be detected through Binary Inspirals?*", [arXiv:2406.15604](https://arxiv.org/abs/2406.15604), [PRD](https://doi.org/10.1103/c344-fm5w) 112, 024068, (2025)
 
