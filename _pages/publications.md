@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+62) Avinash Tiwari, **Shasvath J. Kapadia**, "*Coalescence Forensics: Weighing the Hosts of Hierarchical Binary Black Hole Mergers*", [2602.05645](https://arxiv.org/abs/2602.05645)
+
 61) Gopalkrishna Prabhu, Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, "*Probing the spin of compact objects with gravitational microlensing of gravitational waves*", [arXiv:2512.18707](https://arxiv.org/abs/2512.18707)
 
 60) Sourabh Magare, Abhinav Roy, **Shasvath J. Kapadia**, Nishikanta Khandai, R. Srianand, "*Forecasting properties of detectable massive binary black hole mergers in the era of space based gravitational-wave detectors*", [arXiv:2511.14739](https://arxiv.org/abs/2511.14739)
