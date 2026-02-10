@@ -5,6 +5,8 @@ title: ""
 
 # Selected Publications
 
+63) Avinash Tiwari, Sajad A. Bhat, Tirthankar Roy Choudhury, Susmita Adhikari, Mukesh Kumar Singh, **Shasvath J. Kapadia**, "Gravitational Wave Informed Inference of 21-cm Global Signal Parameters", [arXiv:2602.07631](https://arxiv.org/abs/2602.07631)
+
 62) Avinash Tiwari, **Shasvath J. Kapadia**, "*Coalescence Forensics: Weighing the Hosts of Hierarchical Binary Black Hole Mergers*", [2602.05645](https://arxiv.org/abs/2602.05645)
 
 61) Gopalkrishna Prabhu, Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, "*Probing the spin of compact objects with gravitational microlensing of gravitational waves*", [arXiv:2512.18707](https://arxiv.org/abs/2512.18707)
