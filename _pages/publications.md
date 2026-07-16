@@ -5,7 +5,11 @@ title: ""
 
 # Selected Publications
 
-63) Avinash Tiwari, Sajad A. Bhat, Tirthankar Roy Choudhury, Susmita Adhikari, Mukesh Kumar Singh, **Shasvath J. Kapadia**, "Gravitational Wave Informed Inference of 21-cm Global Signal Parameters", [arXiv:2602.07631](https://arxiv.org/abs/2602.07631)
+65) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, "*Identifying and characterizing extragalactic circum-CBC exoplanets with future gravitational-wave detectors*", [arXiv:2607.09658](https://arxiv.org/abs/2607.09658)
+
+64) Avinash Tiwari, **Shasvath J. Kapadia**, Aditya Vijaykumar, Sourav Chatterjee, "*Periodic line-of-sight velocity-driven modulations to gravitational waves emitted by compact binaries in Keplerian outer orbits*", [arXiv:2607.09644](https://arxiv.org/abs/2607.09644)
+
+63) Avinash Tiwari, Sajad A. Bhat, Tirthankar Roy Choudhury, Susmita Adhikari, Mukesh Kumar Singh, **Shasvath J. Kapadia**, "Gravitational Wave Informed Inference of 21-cm Global Signal Parameters", [MNRAS Letters](https://academic.oup.com/mnras/article/549/2/stag923/8678473?login=true), [arXiv:2602.07631](https://arxiv.org/abs/2602.07631)
 
 62) Avinash Tiwari, **Shasvath J. Kapadia**, "*Coalescence Forensics: Weighing the Hosts of Hierarchical Binary Black Hole Mergers*", [2602.05645](https://arxiv.org/abs/2602.05645)
 
@@ -15,15 +19,15 @@ title: ""
 
 59) Avinash Tiwari, Sajad A. Bhat, Md Arif Shaikh, **Shasvath J. Kapadia**, "*Testing the nature of GW200105 by probing the frequency evolution of eccentricity*", [arXiv:2509.26152](https://arxiv.org/abs/2509.26152), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ae1d74), 995 48, (2026)
 
-58) Sourabh Magare, Anupreeta More, **Shasvath J. Kapadia**, "*Early warning for lensed gravitational wave counterparts from time delays of their host galaxies observed in the optical*", [arXiv:2509.07967](https://arxiv.org/abs/2509.07967)
+58) Sourabh Magare, Anupreeta More, **Shasvath J. Kapadia**, "*Early warning for lensed gravitational wave counterparts from time delays of their host galaxies observed in the optical*", [arXiv:2509.07967](https://arxiv.org/abs/2509.07967), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ae4005) 999 101 (2026) 
 
-57) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Shrobana Ghosh, Alex B. Nielsen, "*A pipeline to search for signatures of line-of-sight acceleration in gravitational wave signals produced by compact binary coalescences*", [arXiv:2506.22272](https://arxiv.org/abs/2506.22272)
+57) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Shrobana Ghosh, Alex B. Nielsen, "*A pipeline to search for signatures of line-of-sight acceleration in gravitational wave signals produced by compact binary coalescences*", [arXiv:2506.22272](https://arxiv.org/abs/2506.22272), [PRD](https://journals.aps.org/prd/abstract/10.1103/qtw8-3g56), 113, 104072 (2026)
 
 56) Avinash Tiwari, Prolay Chanda, **Shasvath J. Kapadia**, Susmita Adhikari, Aditya Vijaykumar, Basudeb Dasgupta, "*Profiling Dark Matter Spikes with Gravitational Waves from Accelerated Binaries*", [arXiv:2508.03803](https://arxiv.org/abs/2508.03803)
 
 55) Sajad A. Bhat, Avinash Tiwari, Md Arif Shaikh, **Shasvath J. Kapadia**, "*EECT: an Eccentricity Evolution Consistency Test to distinguish eccentric gravitational-wave signals from eccentricity mimickers*", [arXiv:2508.14850](https://arxiv.org/abs/2508.14850), [PRD](https://journals.aps.org/prd/abstract/10.1103/rstg-6n6y), 112, 124004, (2025)
 
-54) Sulagna Bhattacharya, **Shasvath Kapadia**, Basudeb Dasgupta, "*Distinguishing Neutron Star vs. Low-Mass Black Hole Binaries with Postmerger Gravitational Waves − Sensitivity to Transmuted Black Holes and Non-Annihilating Dark Matter*", [arXiv:2507.15951](https://arxiv.org/abs/2507.15951)
+54) Sulagna Bhattacharya, **Shasvath Kapadia**, Basudeb Dasgupta, "*Distinguishing Neutron Star vs. Low-Mass Black Hole Binaries with Postmerger Gravitational Waves − Sensitivity to Transmuted Black Holes and Non-Annihilating Dark Matter*", [arXiv:2507.15951](https://arxiv.org/abs/2507.15951), [JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2026/04/062), JCAP04(2026)062 (2026)
 
 53) Teruaki Suyama, **Shasvath J. Kapadia**, "*On the Phase-Magnitude Relation in Gravitational Lensing: Reformulation and Applications of the Kramers-Kronig relation*", [arXiv:2506.02430](https://arxiv.org/abs/2506.02430), [PRD](https://journals.aps.org/prd/abstract/10.1103/mwy4-wspz), 112, 063529, (2025)
 
