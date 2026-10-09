@@ -5,9 +5,9 @@ title: ""
 
 # Selected Publications
 
-67) Mohd Asim Ansari, Avinash Tiwari, Sajad A. Bhat, Sreejith Nair, **Shasvath J. Kapadia**, "*Line-of-sight Acceleration Driven Effects in Eccentric Compact Binary Coalescences*", [arXiv:2610.08459][https://arxiv.org/abs/2610.08459]
+67) Mohd Asim Ansari, Avinash Tiwari, Sajad A. Bhat, Sreejith Nair, **Shasvath J. Kapadia**, "*Line-of-sight Acceleration Driven Effects in Eccentric Compact Binary Coalescences*", [arXiv:2610.08459](https://arxiv.org/abs/2610.08459)
 
-66) Mohd Asim Ansari, Avinash Tiwari, Sajad A. Bhat, Aditya Vijaykumar, **Shasvath J. Kapadia**, "*Line-of-Sight Acceleration-driven waveform corrections for unequal-mass compact binary coalescences*", [arXiv:2610.08492][https://arxiv.org/abs/2610.08492]
+66) Mohd Asim Ansari, Avinash Tiwari, Sajad A. Bhat, Aditya Vijaykumar, **Shasvath J. Kapadia**, "*Line-of-Sight Acceleration-driven waveform corrections for unequal-mass compact binary coalescences*", [arXiv:2610.08492](https://arxiv.org/abs/2610.08492)
 
 65) Avinash Tiwari, Aditya Vijaykumar, **Shasvath J. Kapadia**, Sourav Chatterjee, "*Identifying and characterizing extragalactic circum-CBC exoplanets with future gravitational-wave detectors*", [arXiv:2607.09658](https://arxiv.org/abs/2607.09658)
 
