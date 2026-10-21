@@ -19,7 +19,7 @@ title: ""
 
 61) Gopalkrishna Prabhu, Uddeepta Deka, Sumanta Chakraborty, **Shasvath J. Kapadia**, "*Probing the spin of compact objects with gravitational microlensing of gravitational waves*", [arXiv:2512.18707](https://arxiv.org/abs/2512.18707)
 
-60) Sourabh Magare, Abhinav Roy, **Shasvath J. Kapadia**, Nishikanta Khandai, R. Srianand, "*Forecasting properties of detectable massive binary black hole mergers in the era of space based gravitational-wave detectors*", [arXiv:2511.14739](https://arxiv.org/abs/2511.14739)
+60) Sourabh Magare, Abhinav Roy, **Shasvath J. Kapadia**, Nishikanta Khandai, R. Srianand, "*Forecasting properties of detectable massive binary black hole mergers in the era of space based gravitational-wave detectors*", [arXiv:2511.14739](https://arxiv.org/abs/2511.14739), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ae93ac) 1008 166 (2026)
 
 59) Avinash Tiwari, Sajad A. Bhat, Md Arif Shaikh, **Shasvath J. Kapadia**, "*Testing the nature of GW200105 by probing the frequency evolution of eccentricity*", [arXiv:2509.26152](https://arxiv.org/abs/2509.26152), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/ae1d74), 995 48, (2026)
 
